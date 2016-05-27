@@ -4,7 +4,7 @@
         <description><![CDATA[banjansit]]></description>
         <link>https://thegrid.ai/banjansit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 13:18:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 13:18:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/banjansit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to beat ransomware: Prevent, don't react]]></title>
@@ -40,13 +40,6 @@
             <link>https://blog.malwarebytes.org/101/2016/04/how-to-protect-your-business-from-ransomware/</link>
             <guid isPermaLink="false">97037bfc-f049-454e-a924-d459b96e8483</guid>
             <pubDate>Fri, 27 May 2016 13:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to tell if you're infected with malware]]></title>
-            <description><![CDATA[<article><h1>How to tell if you're infected with malware</h1><p>Picture this: you start your computer and wait. And wait. And wait some more. When your desktop finally shows its face, things don't get any better. Your Internet is sluggish, your programs are taking forever to load, and your cursor is dragging 20 seconds behind your mouse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/609dc0e63c07624107a6ff0c5860dc3a57a25aa0.jpg"></article>]]></description>
-            <link>https://blog.malwarebytes.org/101/2016/05/how-to-tell-if-youre-infected-with-malware/?utm_source=double-opt-%20in&amp;utm_medium=email-internal-b2c&amp;utm_campaign=EM-May-1st-2016newsletter&amp;utm_content=infect-with-malware</link>
-            <guid isPermaLink="false">6cace809-4d42-4d42-be29-80a3a0c5bfdd</guid>
-            <pubDate>Fri, 27 May 2016 12:59:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
