@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.4751245
 color:
   saturation: 0.8959088
-  lightness: 0.4296815
   brandStrength: 1
+  rhythmicContrast: 0.06815362
   brandColors:
     - '#232020'
     - '#DB2522'
     - '#FFFFFF'
     - '#FFE22E'
     - '#F1A3A5'
-  rhythmicContrast: 0.06815362
+  lightness: 0.4296815
+layout_spectrum: 0.7205514
 name: banjansit
