@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[banjansit]]></title>
         <description><![CDATA[banjansit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/banjansit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 12:57:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 27 May 2016 12:59:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/banjansit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to tell if you're infected with malware]]></title>
+            <description><![CDATA[<article><h1>How to tell if you're infected with malware</h1><p>Picture this: you start your computer and wait. And wait. And wait some more. When your desktop finally shows its face, things don't get any better. Your Internet is sluggish, your programs are taking forever to load, and your cursor is dragging 20 seconds behind your mouse.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/609dc0e63c07624107a6ff0c5860dc3a57a25aa0.jpg"></article>]]></description>
+            <link>https://blog.malwarebytes.org/101/2016/05/how-to-tell-if-youre-infected-with-malware/?utm_source=double-opt-%20in&amp;utm_medium=email-internal-b2c&amp;utm_campaign=EM-May-1st-2016newsletter&amp;utm_content=infect-with-malware</link>
+            <guid isPermaLink="false">6cace809-4d42-4d42-be29-80a3a0c5bfdd</guid>
+            <pubDate>Fri, 27 May 2016 12:59:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do I really need anti-malware for my Mac?]]></title>
             <description><![CDATA[<article><h1>Do I really need anti-malware for my Mac?</h1><p>On the popular Discovery Channel program "Mythbusters," hosts Adam Savage and Jamie Hyneman take a legend and deconstruct it to see whether its long-held beliefs are legitimate. They've busted all kinds of myths, from Jimmy Hoffa being buried under Giants Stadium (not true) to the ability to kill someone without a trace using an ice bullet (the bullet vaporizes as soon as the trigger's pulled).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45a6de05186d0b9790cf807c7e2c26f7748c4df8.jpg"></article>]]></description>
