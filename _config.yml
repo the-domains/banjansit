@@ -1,0 +1,14 @@
+layout_spectrum: 0.250007
+color:
+  saturation: 0.8959088
+  lightness: 0.4296815
+  brandStrength: 0.4459607
+  brandColors:
+    - '#000000'
+    - '#724A29'
+    - '#CB8753'
+    - '#E6E6E6'
+    - '#3A97FF'
+  rhythmicContrast: 0.06815362
+typography_spectrum: 0.4751245
+name: banjansit
