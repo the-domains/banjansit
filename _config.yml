@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.4751245
 color:
   saturation: 0.8959088
   brandStrength: 1
@@ -22,5 +21,6 @@ color:
     - '#FFE22E'
     - '#F1A3A5'
   lightness: 0.4296815
-layout_spectrum: 0.3502506
+typography_spectrum: 0.4751245
+layout_spectrum: 0.7681704
 name: banjansit
